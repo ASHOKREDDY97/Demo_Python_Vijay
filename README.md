@@ -8,6 +8,7 @@
 [![Documentation Status](https://readthedocs.org/projects/raalabs-tsiclient/badge/?version=latest)](https://raalabs-tsiclient.readthedocs.io/en/latest/?badge=latest)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=RaaLabs_TSIClient&metric=coverage)](https://sonarcloud.io/dashboard?id=RaaLabs_TSIClient)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=RaaLabs_TSIClient&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=RaaLabs_TSIClient)
+
 [![PyPI version](https://badge.fury.io/py/TSIClient.svg)](https://badge.fury.io/py/TSIClient)
 [![Downloads](https://pepy.tech/badge/tsiclient/month)](https://pepy.tech/project/tsiclient)
 
